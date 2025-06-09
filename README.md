@@ -1,5 +1,7 @@
 # GitHub Repository Manager
 
+![splash screen](/public/assets/splash.png)
+
 A modern, feature-rich desktop application built with Electron and React for browsing and managing GitHub repositories. This application provides a beautiful and intuitive interface for exploring GitHub repositories, issues, and pull requests.
 
 ![GitHub Repository Manager](https://img.shields.io/badge/version-1.0.0-blue.svg)
