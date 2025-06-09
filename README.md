@@ -137,15 +137,15 @@ The packaged application will be available in the `out` directory.
 
 ### Dashboard
 
-![Dashboard](./screenshots/dashboard.png)
+<img src='/public/assets/images/dashboard.png' title='Splash image' width='' alt='Splash Image' />
 
 ### Repository View
 
-![Repository](./screenshots/repository.png)
+<img src='/public/assets/images/repository.png' title='Splash image' width='' alt='Splash Image' />
 
 ### Issues & Pull Requests
 
-![Issues](./screenshots/issues.png)
+<img src='/public/assets/images/issues.png' title='Splash image' width='' alt='Splash Image' />
 
 ## 🤝 Contributing
 
